@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(224, 224, 220);
+}
+
+h1{
+    font-family:Didot, serif;
+}
+
+h2{
+    font-weight: 900;
+    font-family:unset;
+    font-style: italic;
+}
+
+p{
+    color:rgb(58, 54, 54);
+}
+
+li{
+    padding-bottom:10px;
+}
+
+.paddingSpace{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+.color{
+    background-image: url('../images/whiteBack.jpeg'); 
+}
+
+.textCenter{
+    text-align: center;
+}
+
+.anchor{
+    text-decoration: underline;
+    text-align: center;
+    font-size: medium;
+}
